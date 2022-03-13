@@ -2,7 +2,7 @@
 
 <h2>JS Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&theme=dark&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&theme=dark&layout=compact&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne)
 
 <!--  <h3> 
  
