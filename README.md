@@ -1,3 +1,4 @@
+[![codewars](https://www.codewars.com/users/mmiksaa/badges/small)](https://www.codewars.com/users/mmiksaa/badges/large) 
 
 <h2>JS Projects</h2>
 
@@ -11,12 +12,12 @@
 
 </br></br></br>
 
-<h2>Other</h2>
-
-[![codewars](https://www.codewars.com/users/mmiksaa/badges/small)](https://www.codewars.com/users/mmiksaa/badges/large) 
+<!-- <h2>Other</h2> -->
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&layout=compact)](https://wakatime.com/@miksa)
+
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&layout=compact)](https://wakatime.com/@miksa) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
