@@ -8,10 +8,9 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne) -->
 <!-- 🃏♠️ card game 21 -->
 
- <h3> 
+<!--  <h3>  -->
  [🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne) 
-</h3>
- <h3 size="6"> This is my text number 6</h3>
+<!-- </h3> -->
 
 </br></br></br>
 
