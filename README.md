@@ -8,7 +8,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne) -->
 <!-- 🃏♠️ card game 21 -->
 
- <font size="6">[🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne)</font>
+ <font size="30">[🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne)</font>
 
 </br></br></br>
 
