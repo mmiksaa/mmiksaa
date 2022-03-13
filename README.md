@@ -1,4 +1,4 @@
 
 [![codewars](https://www.codewars.com/users/mmiksaa/badges/large)](https://www.codewars.com/users/mmiksaa/badges/large) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiksaa&layout=compact)](https://github.com/mmiksaa/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=16+Years+Old+Frontend)](https://git.io/typing-svg)
