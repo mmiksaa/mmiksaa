@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/mmiksaa/badges/small)](https://www.codewars.com/users/mmiksaa/badges/micro) 
+[![codewars](https://www.codewars.com/users/mmiksaa/badges/large)](https://www.codewars.com/users/mmiksaa) 
 
 <h2>JS Projects</h2>
 
