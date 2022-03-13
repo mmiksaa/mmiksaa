@@ -6,3 +6,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmiksaa)](https://github.com/anuraghazra/github-readme-stats)
