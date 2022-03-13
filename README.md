@@ -13,7 +13,7 @@
 
 <h2>Other</h2>
 
-[![codewars](https://www.codewars.com/users/mmiksaa/badges/micro)](https://www.codewars.com/users/mmiksaa/badges/large) 
+[![codewars](https://www.codewars.com/users/mmiksaa/badges/small)](https://www.codewars.com/users/mmiksaa/badges/large) 
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&layout=compact)](https://wakatime.com/@miksa)
