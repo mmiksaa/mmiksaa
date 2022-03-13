@@ -10,6 +10,9 @@
 
  <font size="30">[🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne)</font>
   <font size="6"> This is my text number 6</font>
+  <p style="font-family: times, serif; font-size:11pt; font-style:italic">
+    Why did we use these specific parameters during the calculation of the fingerprints?
+</p>
 
 </br></br></br>
 
