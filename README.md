@@ -11,9 +11,6 @@
 </h3> -->
 
 </br>
-<!-- </br></br> -->
-
-<!-- <h2>Other</h2> -->
 
 
 ------
@@ -22,3 +19,5 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
