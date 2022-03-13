@@ -10,7 +10,7 @@
 
  <h3> 
  
- [🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne)
+ [🃏 card game 21](https://github.com/mmiksaa/cardGame-twentyOne)
  
 </h3>
 
