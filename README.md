@@ -9,6 +9,7 @@
 <!-- 🃏♠️ card game 21 -->
 
  <font size="30">[🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne)</font>
+  <font size="6"> This is my text number 6</font>
 
 </br></br></br>
 
