@@ -9,4 +9,4 @@
 
 <h2>Other</h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&layout=compact)](https://wakatime.com/@miksa)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa)](https://wakatime.com/@miksa)
