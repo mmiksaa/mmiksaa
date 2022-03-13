@@ -16,7 +16,7 @@
 <!-- <h2>Other</h2> -->
 
 
-
+------
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&theme=dark&width=50&layout=compact)](https://wakatime.com/@miksa)
 
