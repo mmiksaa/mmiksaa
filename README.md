@@ -3,7 +3,9 @@
 <h2>JS Projects</h2>
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne) -->
+🃏♠️ card game 21
+[![Readme Card](🃏♠️ card game 21](https://github.com/mmiksaa/cardGame-twentyOne)
 
 </br></br></br>
 
