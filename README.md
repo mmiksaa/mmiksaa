@@ -18,7 +18,7 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&layout&theme=dark=compact)](https://wakatime.com/@miksa)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&layout=compact&theme=dark)](https://wakatime.com/@miksa)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
