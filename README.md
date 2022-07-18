@@ -4,11 +4,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&theme=dark&layout=compact&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fudo-Creators&theme=dark&layout=compact&repo=hire-it)](https://github.com/mmiksaa/cardGame-twentyOne)
+
 <!--  <h3> 
  
  [🃏 card game 21](https://github.com/mmiksaa/cardGame-twentyOne)
- 
- [🃏 card gae 21](https://github.com/Fudo-Creators/hire-it)
+ https://github.com/Fudo-Creators/hire-it
  
 </h3> -->
 
