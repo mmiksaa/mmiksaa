@@ -8,7 +8,7 @@
  
  [🃏 card game 21](https://github.com/mmiksaa/cardGame-twentyOne)
  
- [🃏 card game 21](https://github.com/Fudo-Creators/hire-it)
+ [🃏 card gae 21](https://github.com/Fudo-Creators/hire-it)
  
 </h3> -->
 
