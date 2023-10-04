@@ -4,9 +4,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&theme=dark&layout=compact&repo=cardGame-twentyOne)](https://github.com/mmiksaa/cardGame-twentyOne)
 
-project in development process
+<!--project in development process
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fudo-Creators&theme=dark&layout=compact&repo=hire-it)](https://github.com/Fudo-Creators/hire-it)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fudo-Creators&theme=dark&layout=compact&repo=hire-it)](https://github.com/Fudo-Creators/hire-it)
 
 <!--  <h3> 
  
