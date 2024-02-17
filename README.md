@@ -1,6 +1,6 @@
-<!-- [![codewars](https://www.codewars.com/users/mmiksaa/badges/large)](https://www.codewars.com/users/mmiksaa)
+<!-- [![codewars](https://www.codewars.com/users/mmiksaa/badges/large)](https://www.codewars.com/users/mmiksaa) -->
 
-<h2>Last Projects</h2>
+<h2>Latest Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiksaa&theme=dark&layout=compact&repo=obsidian-protected-note)](https://github.com/mmiksaa/obsidian-protected-note)
 
@@ -11,4 +11,4 @@
 ---
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&theme=dark&width=50&layout=compact)](https://wakatime.com/@miksa) -->
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@miksa&theme=dark&width=50&layout=compact)](https://wakatime.com/@miksa)-->
