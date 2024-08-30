@@ -1,4 +1,4 @@
-<!-- [![codewars](https://www.codewars.com/users/mmiksaa/badges/large)](https://www.codewars.com/users/mmiksaa) 
+<!-- [![codewars](https://www.codewars.com/users/mmiksaa/badges/large)](https://www.codewars.com/users/mmiksaa)  -->
 
 <h2>Latest Projects</h2>
 
